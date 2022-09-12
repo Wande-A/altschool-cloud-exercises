@@ -1,7 +1,10 @@
 ## 1. `locate` command ##
 The `locate` command is used to locate a file as the name implies. Using the `-i` argument with this command makes it case insensitive, so you can search for a file even if you don't remember the name exactly.
+
 How to use: `locate -i filename`
-Here is an example of the `locate` command in usage. ![locate Command](locate-command.png)
+
+Here is an example of the `locate` command in usage. 
+![locate Command](locate-command.png)
 
 ## 2. `du` command ##
 The `du` command helps to check how much space a file or a directory takes. Short for disk usage, it can also be used with `-h` as an argument. 
